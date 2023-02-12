@@ -1,0 +1,9 @@
+.p-About.Flex2 {
+display: flex;
+justify-content: center;
+}
+.p-About.TextBox3 {
+align-self: stretch;
+text-align: center;
+background-color: #eddcdc;
+}
